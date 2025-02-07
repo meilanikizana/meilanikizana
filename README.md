@@ -4,7 +4,7 @@ Let me introduce myself,
 I am Meilani Kizana and ...
 ---
 - 🔭 I am an Information System Student at Institut Bisnis Informatika Kesatuan  
-- 🌱 I’m currently learning Android or Mobile Development  
+- 🌱 I’m currently learning Mobile Development (Android) and Machine Learning 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/meilani-kizana/)  
 
 <p align="left">
